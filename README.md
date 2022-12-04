@@ -1,3 +1,6 @@
 # OOP
 
-My porjects and practice for leaning object oriented programming languages
+My projects and practice for learning object oriented programming languages. 
+
+Languages included are:
+C++
